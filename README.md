@@ -1,2 +1,2 @@
-# nedsweingart.com
+com.ned
 My Personal Website!
